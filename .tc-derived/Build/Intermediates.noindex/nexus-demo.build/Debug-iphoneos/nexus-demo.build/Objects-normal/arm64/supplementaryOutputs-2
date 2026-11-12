@@ -1,0 +1,30 @@
+{
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/BFSIKYCView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIKYCView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIKYCView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIKYCView.dia",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIKYCView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIKYCView.swiftdeps"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/BFSIStore.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIStore.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIStore.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIStore.dia",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIStore.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIStore.swiftdeps"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/DashboardView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DashboardView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DashboardView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DashboardView.dia",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DashboardView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DashboardView.swiftdeps"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/ECommerceCheckout.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceCheckout.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceCheckout.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceCheckout.dia",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceCheckout.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceCheckout.swiftdeps"
+  }
+}

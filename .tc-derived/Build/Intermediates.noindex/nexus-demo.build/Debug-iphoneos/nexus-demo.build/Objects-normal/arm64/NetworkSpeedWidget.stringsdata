@@ -1,0 +1,80 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/NetworkSpeedWidget.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Network: %@, %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "·",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Network Info",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "Status",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "Simulated Speed Tier",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "Network is reachable",
+        "location": {
+          "startingColumn": 56,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "No network connection",
+        "location": {
+          "startingColumn": 81,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 105
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@: %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 135
+        }
+      }
+    ]
+  },
+  "version": 1
+}

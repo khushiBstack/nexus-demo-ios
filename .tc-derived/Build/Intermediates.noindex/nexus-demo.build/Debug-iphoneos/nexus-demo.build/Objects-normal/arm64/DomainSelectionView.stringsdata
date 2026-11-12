@@ -1,0 +1,56 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/DomainSelectionView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Nexus Demo",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose a domain",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Each journey covers biometrics, camera capture, and geolocation for automated testing.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nexus Demo",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Standalone demo",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 134
+        }
+      },
+      {
+        "comment": "",
+        "key": "Test features without the full flow",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 137
+        }
+      }
+    ]
+  },
+  "version": 1
+}

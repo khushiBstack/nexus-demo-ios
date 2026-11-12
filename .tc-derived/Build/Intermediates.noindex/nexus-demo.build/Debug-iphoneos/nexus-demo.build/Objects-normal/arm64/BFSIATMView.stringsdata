@@ -1,0 +1,144 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/BFSIATMView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "ATMs Near You",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 98
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "ATM name or address",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search ATMs by name or address",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear search",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "Showing ATMs near %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "Map",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Finding ATMs near you...",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Please enable location access in Settings.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "Try Again",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 81
+        }
+      },
+      {
+        "comment": "",
+        "key": "No ATMs found",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "Try a different search or refresh your location.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "Refresh ATMs",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 105
+        }
+      },
+      {
+        "comment": "",
+        "key": "Map requires iOS 17+",
+        "location": {
+          "startingColumn": 116,
+          "startingLine": 111
+        }
+      },
+      {
+        "comment": "",
+        "key": "View ATM details",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 136
+        }
+      },
+      {
+        "comment": "",
+        "key": "ATM Map",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 188
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 191
+        }
+      }
+    ]
+  },
+  "version": 1
+}

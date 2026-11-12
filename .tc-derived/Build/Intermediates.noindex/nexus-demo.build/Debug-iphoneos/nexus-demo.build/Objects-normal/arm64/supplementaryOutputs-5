@@ -1,0 +1,23 @@
+{
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/RootTabView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/RootTabView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/RootTabView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/RootTabView.dia",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/RootTabView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/RootTabView.swiftdeps"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/ScannerView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ScannerView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ScannerView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ScannerView.dia",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ScannerView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ScannerView.swiftdeps"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/StandaloneAudioView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneAudioView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneAudioView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneAudioView.dia",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneAudioView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneAudioView.swiftdeps"
+  }
+}

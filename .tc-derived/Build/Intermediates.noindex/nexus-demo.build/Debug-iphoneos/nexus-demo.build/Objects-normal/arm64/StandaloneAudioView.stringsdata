@@ -1,0 +1,104 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/StandaloneAudioView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Audio Injection",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 96
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open audio file picker",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Audio Injection",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pick an audio file from Files to play or inject",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Selected File",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Playing…",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open Audio File",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Play selected audio",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stop audio playback",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "Playing…",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Play",
+        "location": {
+          "startingColumn": 62,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stop",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 83
+        }
+      }
+    ]
+  },
+  "version": 1
+}

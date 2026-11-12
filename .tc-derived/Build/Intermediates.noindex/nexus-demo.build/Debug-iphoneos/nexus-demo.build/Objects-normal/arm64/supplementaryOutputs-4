@@ -1,0 +1,23 @@
+{
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/OTPVerificationView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/OTPVerificationView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/OTPVerificationView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/OTPVerificationView.dia",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/OTPVerificationView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/OTPVerificationView.swiftdeps"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/ProfileView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ProfileView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ProfileView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ProfileView.dia",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ProfileView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ProfileView.swiftdeps"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/PushNotificationDemoView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/PushNotificationDemoView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/PushNotificationDemoView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/PushNotificationDemoView.dia",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/PushNotificationDemoView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/PushNotificationDemoView.swiftdeps"
+  }
+}

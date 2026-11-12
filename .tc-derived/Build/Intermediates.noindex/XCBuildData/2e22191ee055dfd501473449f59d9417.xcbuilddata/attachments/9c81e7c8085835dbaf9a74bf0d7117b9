@@ -1,0 +1,349 @@
+{
+  "" : {
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/nexus-demo-primary.dia",
+    "emit-module-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/nexus-demo-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/nexus-demo-primary-emit-module.dia",
+    "pch" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/nexus-demo-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/nexus-demo-primary.swiftdeps"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/BFSIATMView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIATMView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIATMView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIATMView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIATMView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIATMView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIATMView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIATMView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIATMView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/BFSIApplePayView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIApplePayView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIApplePayView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIApplePayView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIApplePayView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIApplePayView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIApplePayView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIApplePayView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIApplePayView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/BFSIEntryView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIEntryView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIEntryView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIEntryView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIEntryView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIEntryView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIEntryView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIEntryView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIEntryView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/BFSIInvestmentView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIInvestmentView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIInvestmentView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIInvestmentView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIInvestmentView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIInvestmentView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIInvestmentView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIInvestmentView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIInvestmentView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/BFSIKYCView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIKYCView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIKYCView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIKYCView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIKYCView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIKYCView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIKYCView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIKYCView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIKYCView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/BFSIStore.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIStore.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIStore.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIStore.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIStore.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIStore.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIStore.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIStore.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/BFSIStore~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/DashboardView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DashboardView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DashboardView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DashboardView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DashboardView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DashboardView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DashboardView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DashboardView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DashboardView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/DemoBankApp.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DemoBankApp.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DemoBankApp.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DemoBankApp.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DemoBankApp.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DemoBankApp.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DemoBankApp.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DemoBankApp.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DemoBankApp~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/DomainSelectionView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DomainSelectionView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DomainSelectionView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DomainSelectionView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DomainSelectionView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DomainSelectionView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DomainSelectionView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DomainSelectionView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/DomainSelectionView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/ECommerceCheckout.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceCheckout.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceCheckout.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceCheckout.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceCheckout.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceCheckout.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceCheckout.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceCheckout.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceCheckout~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/ECommerceViews.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceViews.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceViews.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceViews.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceViews.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceViews.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceViews.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceViews.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ECommerceViews~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/HealthcareViews.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/HealthcareViews.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/HealthcareViews.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/HealthcareViews.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/HealthcareViews.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/HealthcareViews.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/HealthcareViews.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/HealthcareViews.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/HealthcareViews~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/IndustryLoginView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/IndustryLoginView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/IndustryLoginView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/IndustryLoginView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/IndustryLoginView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/IndustryLoginView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/IndustryLoginView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/IndustryLoginView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/IndustryLoginView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/LoginView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/LoginView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/LoginView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/LoginView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/LoginView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/LoginView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/LoginView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/LoginView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/LoginView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/Models.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/Models.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/Models.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/Models.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/Models.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/Models.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/Models~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/NetworkSpeedWidget.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/NetworkSpeedWidget.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/NetworkSpeedWidget.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/NetworkSpeedWidget.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/NetworkSpeedWidget.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/NetworkSpeedWidget.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/NetworkSpeedWidget.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/NetworkSpeedWidget.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/NetworkSpeedWidget~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/OTPVerificationView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/OTPVerificationView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/OTPVerificationView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/OTPVerificationView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/OTPVerificationView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/OTPVerificationView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/OTPVerificationView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/OTPVerificationView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/OTPVerificationView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/ProfileView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ProfileView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ProfileView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ProfileView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ProfileView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ProfileView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ProfileView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ProfileView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ProfileView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/PushNotificationDemoView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/PushNotificationDemoView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/PushNotificationDemoView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/PushNotificationDemoView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/PushNotificationDemoView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/PushNotificationDemoView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/PushNotificationDemoView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/PushNotificationDemoView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/PushNotificationDemoView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/RootTabView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/RootTabView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/RootTabView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/RootTabView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/RootTabView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/RootTabView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/RootTabView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/RootTabView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/RootTabView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/ScannerView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ScannerView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ScannerView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ScannerView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ScannerView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ScannerView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ScannerView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ScannerView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ScannerView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/StandaloneAudioView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneAudioView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneAudioView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneAudioView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneAudioView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneAudioView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneAudioView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneAudioView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneAudioView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/StandaloneBiometricView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneBiometricView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneBiometricView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneBiometricView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneBiometricView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneBiometricView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneBiometricView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneBiometricView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneBiometricView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/StandaloneDemoView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneDemoView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneDemoView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneDemoView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneDemoView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneDemoView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneDemoView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneDemoView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneDemoView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/StandaloneGPSView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneGPSView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneGPSView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneGPSView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneGPSView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneGPSView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneGPSView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneGPSView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneGPSView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/StandaloneIPGeoView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneIPGeoView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneIPGeoView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneIPGeoView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneIPGeoView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneIPGeoView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneIPGeoView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneIPGeoView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneIPGeoView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/StandaloneMediaViews.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneMediaViews.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneMediaViews.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneMediaViews.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneMediaViews.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneMediaViews.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneMediaViews.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneMediaViews.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneMediaViews~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/StandaloneNetworkView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneNetworkView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneNetworkView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneNetworkView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneNetworkView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneNetworkView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneNetworkView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneNetworkView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneNetworkView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/StandaloneOTPView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneOTPView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneOTPView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneOTPView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneOTPView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneOTPView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneOTPView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneOTPView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneOTPView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/ThemeManager.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ThemeManager.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ThemeManager.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ThemeManager.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ThemeManager.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ThemeManager.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ThemeManager.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ThemeManager.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/ThemeManager~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/TransferView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TransferView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TransferView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TransferView.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TransferView.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TransferView.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TransferView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TransferView.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TransferView~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/TravelViews.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TravelViews.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TravelViews.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TravelViews.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TravelViews.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TravelViews.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TravelViews.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TravelViews.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TravelViews~partial.swiftmodule"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/TwilioVerifyService.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TwilioVerifyService.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TwilioVerifyService.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TwilioVerifyService.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TwilioVerifyService.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TwilioVerifyService.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TwilioVerifyService.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TwilioVerifyService.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/TwilioVerifyService~partial.swiftmodule"
+  }
+}

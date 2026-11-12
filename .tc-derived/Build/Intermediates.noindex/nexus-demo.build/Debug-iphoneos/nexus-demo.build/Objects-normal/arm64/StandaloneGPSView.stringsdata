@@ -1,0 +1,80 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/StandaloneGPSView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "GPS Test",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 90
+        }
+      },
+      {
+        "comment": "",
+        "key": "Get GPS location",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "GPS Location",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Get exact coordinates and reverse-geocoded address",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "GPS Result",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Address",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tap to get your GPS location",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "Locating…",
+        "location": {
+          "startingColumn": 56,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Get My Location",
+        "location": {
+          "startingColumn": 72,
+          "startingLine": 77
+        }
+      }
+    ]
+  },
+  "version": 1
+}

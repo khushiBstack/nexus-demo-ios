@@ -1,0 +1,104 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/StandaloneIPGeoView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "IP Geolocation",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 124
+        }
+      },
+      {
+        "comment": "",
+        "key": "Looking up location…",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "Lookup IP geolocation",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear geolocation results",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 119
+        }
+      },
+      {
+        "comment": "",
+        "key": "IP Geolocation",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Lookup your public IP address and geographic location",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Location Details",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Full Address",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tap Lookup to fetch your IP location",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "Looking up…",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 99
+        }
+      },
+      {
+        "comment": "",
+        "key": "Lookup My Location",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 99
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear Results",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 115
+        }
+      }
+    ]
+  },
+  "version": 1
+}

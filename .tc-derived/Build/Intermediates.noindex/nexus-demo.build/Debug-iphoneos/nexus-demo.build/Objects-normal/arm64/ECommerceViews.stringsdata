@@ -1,0 +1,320 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/ECommerceViews.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "E-commerce",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 96
+        }
+      },
+      {
+        "comment": "",
+        "key": "Shop",
+        "location": {
+          "startingColumn": 85,
+          "startingLine": 108
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search",
+        "location": {
+          "startingColumn": 83,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cart",
+        "location": {
+          "startingColumn": 98,
+          "startingLine": 110
+        }
+      },
+      {
+        "comment": "",
+        "key": "Orders",
+        "location": {
+          "startingColumn": 82,
+          "startingLine": 111
+        }
+      },
+      {
+        "comment": "",
+        "key": "Profile",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "ShopNexus",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 200
+        }
+      },
+      {
+        "comment": "",
+        "key": "Featured",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 192
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hello, %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 147
+        }
+      },
+      {
+        "comment": "",
+        "key": "What are you looking for?",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 153
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notifications",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 217
+        }
+      },
+      {
+        "comment": "",
+        "key": "Added to cart",
+        "location": {
+          "startingColumn": 56,
+          "startingLine": 289
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add to cart",
+        "location": {
+          "startingColumn": 74,
+          "startingLine": 289
+        }
+      },
+      {
+        "comment": "",
+        "key": "(%lld)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 278
+        }
+      },
+      {
+        "comment": "",
+        "key": "Added to Cart",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 286
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add to Cart",
+        "location": {
+          "startingColumn": 63,
+          "startingLine": 286
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 323
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search products...",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 308
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search products",
+        "location": {
+          "startingColumn": 107,
+          "startingLine": 308
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear search",
+        "location": {
+          "startingColumn": 156,
+          "startingLine": 309
+        }
+      },
+      {
+        "comment": "",
+        "key": "No results for: %@",
+        "location": {
+          "startingColumn": 160,
+          "startingLine": 312
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search for products",
+        "location": {
+          "startingColumn": 160,
+          "startingLine": 314
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cart",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 333
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your cart is empty",
+        "location": {
+          "startingColumn": 145,
+          "startingLine": 336
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add items from the Shop tab",
+        "location": {
+          "startingColumn": 189,
+          "startingLine": 336
+        }
+      },
+      {
+        "comment": "",
+        "key": "Items",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 339
+        }
+      },
+      {
+        "comment": "",
+        "key": "Summary",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 350
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 345
+        }
+      },
+      {
+        "comment": "",
+        "key": "Subtotal",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 351
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tax (8%)",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 352
+        }
+      },
+      {
+        "comment": "",
+        "key": "Shipping",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 353
+        }
+      },
+      {
+        "comment": "",
+        "key": "Total",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 354
+        }
+      },
+      {
+        "comment": "",
+        "key": "Proceed to checkout",
+        "location": {
+          "startingColumn": 237,
+          "startingLine": 356
+        }
+      },
+      {
+        "comment": "",
+        "key": "Proceed to Checkout",
+        "location": {
+          "startingColumn": 116,
+          "startingLine": 356
+        }
+      },
+      {
+        "comment": "",
+        "key": "Orders",
+        "location": {
+          "startingColumn": 56,
+          "startingLine": 364
+        }
+      },
+      {
+        "comment": "",
+        "key": "No orders yet",
+        "location": {
+          "startingColumn": 163,
+          "startingLine": 367
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your placed orders will appear here",
+        "location": {
+          "startingColumn": 202,
+          "startingLine": 367
+        }
+      },
+      {
+        "comment": "",
+        "key": "Order, %@",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 375
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld item%@ · %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 373
+        }
+      }
+    ]
+  },
+  "version": 1
+}

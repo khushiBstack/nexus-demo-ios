@@ -1,0 +1,360 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/ECommerceCheckout.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Checkout",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 177
+        }
+      },
+      {
+        "comment": "",
+        "key": "or enter manually",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delivery Address",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use current location for delivery",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 74
+        }
+      },
+      {
+        "comment": "",
+        "key": "Detecting…",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use my current location",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Street",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "Street address",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 81
+        }
+      },
+      {
+        "comment": "",
+        "key": "Street address",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "City",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "City",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "City",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "ZIP",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 95
+        }
+      },
+      {
+        "comment": "",
+        "key": "ZIP",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 96
+        }
+      },
+      {
+        "comment": "",
+        "key": "ZIP code",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "Order Summary",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ × %lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "Total",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 126
+        }
+      },
+      {
+        "comment": "",
+        "key": "Free shipping applied!",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 133
+        }
+      },
+      {
+        "comment": "",
+        "key": "Payment",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 144
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pay with Apple Pay",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 155
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pay with card",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 166
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pay %@ with Card",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 161
+        }
+      },
+      {
+        "comment": "",
+        "key": "Order Confirmed",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 367
+        }
+      },
+      {
+        "comment": "",
+        "key": "Download receipt as PDF",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 351
+        }
+      },
+      {
+        "comment": "",
+        "key": "Order placed successfully",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 287
+        }
+      },
+      {
+        "comment": "",
+        "key": "Order Placed!",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 291
+        }
+      },
+      {
+        "comment": "",
+        "key": "Paid via %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 292
+        }
+      },
+      {
+        "comment": "",
+        "key": "Order #%@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 294
+        }
+      },
+      {
+        "comment": "",
+        "key": "Receipt",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 300
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ × %lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 304
+        }
+      },
+      {
+        "comment": "",
+        "key": "Total",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 318
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delivery to",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 324
+        }
+      },
+      {
+        "comment": "",
+        "key": "Date",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 329
+        }
+      },
+      {
+        "comment": "",
+        "key": "Download Receipt (PDF)",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 344
+        }
+      },
+      {
+        "comment": "",
+        "key": "Continue Shopping",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 357
+        }
+      },
+      {
+        "comment": "",
+        "key": "Receipt",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 437
+        }
+      },
+      {
+        "comment": "",
+        "key": "Download receipt as PDF",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 433
+        }
+      },
+      {
+        "comment": "",
+        "key": "Order #%@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 389
+        }
+      },
+      {
+        "comment": "",
+        "key": "Paid via %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 391
+        }
+      },
+      {
+        "comment": "",
+        "key": "Items",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 396
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ × %lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 399
+        }
+      },
+      {
+        "comment": "",
+        "key": "Total",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 412
+        }
+      },
+      {
+        "comment": "",
+        "key": "Download Receipt (PDF)",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 426
+        }
+      }
+    ]
+  },
+  "version": 1
+}

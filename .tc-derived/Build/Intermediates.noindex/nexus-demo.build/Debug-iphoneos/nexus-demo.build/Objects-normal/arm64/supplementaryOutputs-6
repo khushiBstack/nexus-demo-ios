@@ -1,0 +1,23 @@
+{
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/StandaloneBiometricView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneBiometricView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneBiometricView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneBiometricView.dia",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneBiometricView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneBiometricView.swiftdeps"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/StandaloneDemoView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneDemoView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneDemoView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneDemoView.dia",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneDemoView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneDemoView.swiftdeps"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/StandaloneGPSView.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneGPSView.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneGPSView.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneGPSView.dia",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneGPSView.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demo.build/Objects-normal/arm64/StandaloneGPSView.swiftdeps"
+  }
+}

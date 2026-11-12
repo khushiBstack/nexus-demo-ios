@@ -1,0 +1,40 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/StandaloneDemoView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Standalone demo",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Network Status",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld, %@, %@",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld) %@",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 56
+        }
+      }
+    ]
+  },
+  "version": 1
+}

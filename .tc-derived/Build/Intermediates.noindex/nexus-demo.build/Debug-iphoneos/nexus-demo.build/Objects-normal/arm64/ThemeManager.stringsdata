@@ -1,0 +1,40 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/ThemeManager.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Dark mode enabled",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 148
+        }
+      },
+      {
+        "comment": "",
+        "key": "Light mode enabled",
+        "location": {
+          "startingColumn": 64,
+          "startingLine": 148
+        }
+      },
+      {
+        "comment": "",
+        "key": "Dark Mode On",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 140
+        }
+      },
+      {
+        "comment": "",
+        "key": "Light Mode On",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 140
+        }
+      }
+    ]
+  },
+  "version": 1
+}

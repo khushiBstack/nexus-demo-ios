@@ -1,0 +1,128 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/BFSIApplePayView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Apple Pay",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 141
+        }
+      },
+      {
+        "comment": "",
+        "key": "Payment",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 143
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pay from Account",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@  %@  %@",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select account",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Payment Details",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Merchant",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "Merchant name",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Merchant name",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Amount",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "$",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "0.00",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Payment amount",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recent Apple Pay",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 144
+        }
+      }
+    ]
+  },
+  "version": 1
+}

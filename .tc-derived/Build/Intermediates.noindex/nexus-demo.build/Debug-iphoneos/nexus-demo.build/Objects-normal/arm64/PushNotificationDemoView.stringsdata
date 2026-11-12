@@ -1,0 +1,176 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/PushNotificationDemoView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Push notification: %@. %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Allow",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 98
+        }
+      },
+      {
+        "comment": "",
+        "key": "Allow notifications",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notification Permission",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 90
+        }
+      },
+      {
+        "comment": "",
+        "key": "Permission",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 106
+        }
+      },
+      {
+        "comment": "",
+        "key": "Title",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 111
+        }
+      },
+      {
+        "comment": "",
+        "key": "Body",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 117
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notification title",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 112
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notification title",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 114
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notification body",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 118
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notification body",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 120
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delay in seconds: %lld",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delay",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 125
+        }
+      },
+      {
+        "comment": "",
+        "key": "%llds",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 129
+        }
+      },
+      {
+        "comment": "",
+        "key": "Compose",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 138
+        }
+      },
+      {
+        "comment": "",
+        "key": "Schedule notification",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 157
+        }
+      },
+      {
+        "comment": "",
+        "key": "Schedule Notification",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 150
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@: %@, %@",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 191
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sent",
+        "location": {
+          "startingColumn": 56,
+          "startingLine": 179
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pending",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 179
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scheduled (%lld)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 194
+        }
+      }
+    ]
+  },
+  "version": 1
+}

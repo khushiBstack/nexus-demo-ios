@@ -1,0 +1,552 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/TravelViews.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Travel",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 115
+        }
+      },
+      {
+        "comment": "",
+        "key": "Home",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 126
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 128
+        }
+      },
+      {
+        "comment": "",
+        "key": "Trips",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 130
+        }
+      },
+      {
+        "comment": "",
+        "key": "Profile",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 138
+        }
+      },
+      {
+        "comment": "",
+        "key": "TripNexus",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 222
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hello, %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 159
+        }
+      },
+      {
+        "comment": "",
+        "key": "Where to next?",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 165
+        }
+      },
+      {
+        "comment": "",
+        "key": "Departing from %@",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 162
+        }
+      },
+      {
+        "comment": "",
+        "key": "Upcoming Trips",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 186
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hot Deals",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 201
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recent Bookings",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 213
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back to domains",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 231
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ to %@, %@, %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 304
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ → %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 291
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ · %@ · %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 292
+        }
+      },
+      {
+        "comment": "",
+        "key": "per person",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 298
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 379
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search type",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 350
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use current location %@ as %@",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 370
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use current location: %@",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 361
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search flights",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 405
+        }
+      },
+      {
+        "comment": "",
+        "key": "Depart",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 391
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 392
+        }
+      },
+      {
+        "comment": "",
+        "key": "Passengers",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 396
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 397
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search Flights",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 402
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search hotels",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 429
+        }
+      },
+      {
+        "comment": "",
+        "key": "Check-in",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 415
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 416
+        }
+      },
+      {
+        "comment": "",
+        "key": "Guests",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 420
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 421
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search Hotels",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 426
+        }
+      },
+      {
+        "comment": "",
+        "key": "3 flights found: %@ → %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 445
+        }
+      },
+      {
+        "comment": "",
+        "key": "3 hotels found in %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 468
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@, %@ to %@, %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 528
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nonstop",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 498
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld stop",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 498
+        }
+      },
+      {
+        "comment": "",
+        "key": "/ person",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 522
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@, %@, %@ per night",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 558
+        }
+      },
+      {
+        "comment": "",
+        "key": "(%lld)",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 546
+        }
+      },
+      {
+        "comment": "",
+        "key": "/ night",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 552
+        }
+      },
+      {
+        "comment": "",
+        "key": "Flight Details",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 642
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ to %@, %@",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 595
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hotel Details",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 726
+        }
+      },
+      {
+        "comment": "",
+        "key": "Amenities",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 679
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nights",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 691
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld night%@ — %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 693
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pay with Apple Pay",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 745
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pay with card",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 753
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pay %@ with Card",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 748
+        }
+      },
+      {
+        "comment": "",
+        "key": "Paid via %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 770
+        }
+      },
+      {
+        "comment": "",
+        "key": "Download receipt as PDF",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 781
+        }
+      },
+      {
+        "comment": "",
+        "key": "Download Receipt (PDF)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 775
+        }
+      },
+      {
+        "comment": "",
+        "key": "My Trips",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 939
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sample Trips",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 890
+        }
+      },
+      {
+        "comment": "",
+        "key": "My Bookings",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 916
+        }
+      },
+      {
+        "comment": "",
+        "key": "Digital Key",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1019
+        }
+      },
+      {
+        "comment": "",
+        "key": "Lock room",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 1016
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unlock room",
+        "location": {
+          "startingColumn": 61,
+          "startingLine": 1016
+        }
+      },
+      {
+        "comment": "",
+        "key": "Room %@ Unlocked",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 993
+        }
+      },
+      {
+        "comment": "",
+        "key": "Digital Room Key",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 993
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your room door is now open.",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 994
+        }
+      },
+      {
+        "comment": "",
+        "key": "Room %@ · Tap to unlock.",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 994
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select room %@",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 1004
+        }
+      },
+      {
+        "comment": "",
+        "key": "Room %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1000
+        }
+      },
+      {
+        "comment": "",
+        "key": "Lock Room",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 1010
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unlock Room",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 1010
+        }
+      }
+    ]
+  },
+  "version": 1
+}

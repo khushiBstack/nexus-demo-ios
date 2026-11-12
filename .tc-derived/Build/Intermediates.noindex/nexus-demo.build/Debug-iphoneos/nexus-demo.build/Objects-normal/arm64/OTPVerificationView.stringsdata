@@ -1,0 +1,368 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/OTPVerificationView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "–",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Digit %lld of 6",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "OTP Verification",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 288
+        }
+      },
+      {
+        "comment": "",
+        "key": "OTP Verification",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "Phone Number",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 110
+        }
+      },
+      {
+        "comment": "",
+        "key": "Send OTP",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 156
+        }
+      },
+      {
+        "comment": "",
+        "key": "+1 555 000 0000",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 119
+        }
+      },
+      {
+        "comment": "",
+        "key": "Phone number",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 121
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sending…",
+        "location": {
+          "startingColumn": 62,
+          "startingLine": 144
+        }
+      },
+      {
+        "comment": "",
+        "key": "Send OTP",
+        "location": {
+          "startingColumn": 77,
+          "startingLine": 144
+        }
+      },
+      {
+        "comment": "",
+        "key": "Resend in %llds",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 270
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verified successfully",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 217
+        }
+      },
+      {
+        "comment": "",
+        "key": "Continue to app",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 246
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verify OTP",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 267
+        }
+      },
+      {
+        "comment": "",
+        "key": "Resend OTP",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 274
+        }
+      },
+      {
+        "comment": "",
+        "key": "Resend OTP",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 277
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter the 6-digit code",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 163
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sent to %@",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 165
+        }
+      },
+      {
+        "comment": "",
+        "key": "Code sent to %@",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 168
+        }
+      },
+      {
+        "comment": "",
+        "key": "Twilio not configured — enter any 6 digits to demo",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 194
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verified successfully ✓",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 210
+        }
+      },
+      {
+        "comment": "",
+        "key": "Continue",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 239
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verifying…",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 255
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verify",
+        "location": {
+          "startingColumn": 87,
+          "startingLine": 255
+        }
+      },
+      {
+        "comment": "",
+        "key": "OTP Test",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 511
+        }
+      },
+      {
+        "comment": "",
+        "key": "Send OTP",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 428
+        }
+      },
+      {
+        "comment": "",
+        "key": "Phone Number",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 405
+        }
+      },
+      {
+        "comment": "",
+        "key": "+1 555 000 0000",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 408
+        }
+      },
+      {
+        "comment": "",
+        "key": "Phone number",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 410
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sending…",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 424
+        }
+      },
+      {
+        "comment": "",
+        "key": "Send OTP",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 424
+        }
+      },
+      {
+        "comment": "",
+        "key": "Phone Number",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 430
+        }
+      },
+      {
+        "comment": "",
+        "key": "Twilio not configured — enter any 6 digits to demo",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 436
+        }
+      },
+      {
+        "comment": "",
+        "key": "Resend in %llds",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 498
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verified successfully ✓",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 468
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verified successfully",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 470
+        }
+      },
+      {
+        "comment": "",
+        "key": "Continue",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 480
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verified",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 482
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verify OTP",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 495
+        }
+      },
+      {
+        "comment": "",
+        "key": "Resend OTP",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 501
+        }
+      },
+      {
+        "comment": "",
+        "key": "Resend OTP",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 503
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verifying…",
+        "location": {
+          "startingColumn": 66,
+          "startingLine": 491
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verify",
+        "location": {
+          "startingColumn": 83,
+          "startingLine": 491
+        }
+      },
+      {
+        "comment": "",
+        "key": "OTP Code",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 507
+        }
+      }
+    ]
+  },
+  "version": 1
+}

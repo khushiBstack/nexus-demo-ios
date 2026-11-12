@@ -1,0 +1,16 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/BFSIEntryView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "BFSI",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 22
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demoTests.build/Objects-normal/arm64/nexus-demoTests-primary.dia",
+    "emit-module-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demoTests.build/Objects-normal/arm64/nexus-demoTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demoTests.build/Objects-normal/arm64/nexus-demoTests-primary-emit-module.dia",
+    "pch" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demoTests.build/Objects-normal/arm64/nexus-demoTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demoTests.build/Objects-normal/arm64/nexus-demoTests-primary.swiftdeps"
+  },
+  "/Users/khushibhatia/Desktop/nexus-demo/nexus-demoTests/nexus_demoTests.swift" : {
+    "const-values" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demoTests.build/Objects-normal/arm64/nexus_demoTests.swiftconstvalues",
+    "dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demoTests.build/Objects-normal/arm64/nexus_demoTests.d",
+    "diagnostics" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demoTests.build/Objects-normal/arm64/nexus_demoTests.dia",
+    "index-unit-output-path" : "/nexus-demo.build/Debug-iphoneos/nexus-demoTests.build/Objects-normal/arm64/nexus_demoTests.o",
+    "llvm-bc" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demoTests.build/Objects-normal/arm64/nexus_demoTests.bc",
+    "object" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demoTests.build/Objects-normal/arm64/nexus_demoTests.o",
+    "swift-dependencies" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demoTests.build/Objects-normal/arm64/nexus_demoTests.swiftdeps",
+    "swiftmodule" : "/Users/khushibhatia/Desktop/nexus-demo/.tc-derived/Build/Intermediates.noindex/nexus-demo.build/Debug-iphoneos/nexus-demoTests.build/Objects-normal/arm64/nexus_demoTests~partial.swiftmodule"
+  }
+}

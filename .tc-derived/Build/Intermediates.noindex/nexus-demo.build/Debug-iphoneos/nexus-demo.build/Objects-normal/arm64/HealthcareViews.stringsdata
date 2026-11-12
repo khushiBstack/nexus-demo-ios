@@ -1,0 +1,504 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/HealthcareViews.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Healthcare",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "Home",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 126
+        }
+      },
+      {
+        "comment": "",
+        "key": "Appointments",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 128
+        }
+      },
+      {
+        "comment": "",
+        "key": "Records",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 130
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nearby",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 132
+        }
+      },
+      {
+        "comment": "",
+        "key": "Profile",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 140
+        }
+      },
+      {
+        "comment": "",
+        "key": "CareNexus",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 220
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hello, %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 160
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stay healthy today",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 162
+        }
+      },
+      {
+        "comment": "",
+        "key": "Upcoming Appointments",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 182
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recent Lab Results",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 201
+        }
+      },
+      {
+        "comment": "",
+        "key": "Active Prescriptions",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 211
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back to domains",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 228
+        }
+      },
+      {
+        "comment": "",
+        "key": "Appointments",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 270
+        }
+      },
+      {
+        "comment": "",
+        "key": "Upcoming",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 254
+        }
+      },
+      {
+        "comment": "",
+        "key": "Past",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 264
+        }
+      },
+      {
+        "comment": "",
+        "key": "Book appointment",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 276
+        }
+      },
+      {
+        "comment": "",
+        "key": "Paid",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 301
+        }
+      },
+      {
+        "comment": "",
+        "key": "Paid",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 330
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unpaid",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 330
+        }
+      },
+      {
+        "comment": "",
+        "key": "Appointment",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 410
+        }
+      },
+      {
+        "comment": "",
+        "key": "Payment Confirmed",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 384
+        }
+      },
+      {
+        "comment": "",
+        "key": "Paid via %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 385
+        }
+      },
+      {
+        "comment": "",
+        "key": "Download receipt as PDF",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 395
+        }
+      },
+      {
+        "comment": "",
+        "key": "Download Receipt (PDF)",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 389
+        }
+      },
+      {
+        "comment": "",
+        "key": "Book Appointment",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 454
+        }
+      },
+      {
+        "comment": "",
+        "key": "Doctor",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 428
+        }
+      },
+      {
+        "comment": "",
+        "key": "Schedule",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 434
+        }
+      },
+      {
+        "comment": "",
+        "key": "Doctor name",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 429
+        }
+      },
+      {
+        "comment": "",
+        "key": "Doctor name",
+        "location": {
+          "startingColumn": 80,
+          "startingLine": 429
+        }
+      },
+      {
+        "comment": "",
+        "key": "Specialty",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 430
+        }
+      },
+      {
+        "comment": "",
+        "key": "Date & Time",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 435
+        }
+      },
+      {
+        "comment": "",
+        "key": "Appointment date and time",
+        "location": {
+          "startingColumn": 99,
+          "startingLine": 435
+        }
+      },
+      {
+        "comment": "",
+        "key": "Suite / Room",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 436
+        }
+      },
+      {
+        "comment": "",
+        "key": "Suite or room number",
+        "location": {
+          "startingColumn": 80,
+          "startingLine": 436
+        }
+      },
+      {
+        "comment": "",
+        "key": "Book Appointment",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 439
+        }
+      },
+      {
+        "comment": "",
+        "key": "Confirm booking",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 451
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 458
+        }
+      },
+      {
+        "comment": "",
+        "key": "Health Records",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 516
+        }
+      },
+      {
+        "comment": "",
+        "key": "My Records",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 488
+        }
+      },
+      {
+        "comment": "",
+        "key": "Upload a medical record file",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 481
+        }
+      },
+      {
+        "comment": "",
+        "key": "Uploaded: %@",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 483
+        }
+      },
+      {
+        "comment": "",
+        "key": "Upload Medical Record",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 478
+        }
+      },
+      {
+        "comment": "",
+        "key": "Download %@",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 507
+        }
+      },
+      {
+        "comment": "",
+        "key": "Lab Result",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 586
+        }
+      },
+      {
+        "comment": "",
+        "key": "Download lab report as PDF",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 583
+        }
+      },
+      {
+        "comment": "",
+        "key": "Download Lab Report (PDF)",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 578
+        }
+      },
+      {
+        "comment": "",
+        "key": "File uploaded",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 608
+        }
+      },
+      {
+        "comment": "",
+        "key": "Prescription",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 671
+        }
+      },
+      {
+        "comment": "",
+        "key": "Upload prescription file",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 653
+        }
+      },
+      {
+        "comment": "",
+        "key": "Uploaded: %@",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 656
+        }
+      },
+      {
+        "comment": "",
+        "key": "Download prescription as PDF",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 667
+        }
+      },
+      {
+        "comment": "",
+        "key": "Replace Prescription File",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 649
+        }
+      },
+      {
+        "comment": "",
+        "key": "Upload Prescription File",
+        "location": {
+          "startingColumn": 76,
+          "startingLine": 649
+        }
+      },
+      {
+        "comment": "",
+        "key": "Download Prescription (PDF)",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 663
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nearby",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 742
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nearby Providers",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 738
+        }
+      },
+      {
+        "comment": "",
+        "key": "Locate",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 734
+        }
+      },
+      {
+        "comment": "",
+        "key": "Find nearby providers",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 735
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pay with Apple Pay",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 758
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pay with card",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 764
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pay %@ with Card",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 760
+        }
+      }
+    ]
+  },
+  "version": 1
+}

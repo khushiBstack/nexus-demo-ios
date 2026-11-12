@@ -1,0 +1,96 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/StandaloneNetworkView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Network Test",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 74
+        }
+      },
+      {
+        "comment": "",
+        "key": "You're Offline",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "Low Bandwidth Detected",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "Network Details",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "Measuring…",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Measure Speed Now",
+        "location": {
+          "startingColumn": 75,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "On cellular — data charges may apply",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "No active network connection detected. Some features may not work.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your connection speed is very low (under 150 Kbps). Some features may be slow or unavailable.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 91
+        }
+      }
+    ]
+  },
+  "version": 1
+}

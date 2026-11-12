@@ -1,0 +1,88 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/StandaloneBiometricView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Biometric Test",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "Run biometric authentication test",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset biometric test",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "Biometric Authentication",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tests %@ on this device",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Success",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Failed",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Authenticating…",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "Run %@ Test",
+        "location": {
+          "startingColumn": 61,
+          "startingLine": 68
+        }
+      }
+    ]
+  },
+  "version": 1
+}

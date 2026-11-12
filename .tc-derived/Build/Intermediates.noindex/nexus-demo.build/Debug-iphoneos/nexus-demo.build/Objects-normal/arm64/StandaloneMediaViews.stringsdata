@@ -1,0 +1,304 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/StandaloneMediaViews.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Image Injection",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "No image selected",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Capture image with camera",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose image from photo gallery",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear selected image",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Capture with Camera",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose from Gallery",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Video Injection",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 143
+        }
+      },
+      {
+        "comment": "",
+        "key": "No video selected",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "Record video with camera",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 121
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose video from gallery",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 131
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 134
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear selected video",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 136
+        }
+      },
+      {
+        "comment": "",
+        "key": "Record with Camera",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose from Gallery",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 126
+        }
+      },
+      {
+        "comment": "",
+        "key": "File Upload / Download",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 281
+        }
+      },
+      {
+        "comment": "",
+        "key": "File Downloaded ✓",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 292
+        }
+      },
+      {
+        "comment": "",
+        "key": "File Upload & Download",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 172
+        }
+      },
+      {
+        "comment": "",
+        "key": "Upload any file from Files, or download a sample PDF",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 173
+        }
+      },
+      {
+        "comment": "",
+        "key": "No file selected",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 197
+        }
+      },
+      {
+        "comment": "",
+        "key": "Upload",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 180
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open file picker to upload",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 207
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open Files",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 202
+        }
+      },
+      {
+        "comment": "",
+        "key": "Download a sample PDF to your device",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 225
+        }
+      },
+      {
+        "comment": "",
+        "key": "Download",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 215
+        }
+      },
+      {
+        "comment": "",
+        "key": "How to save: Tap Save to Files, choose On My iPhone, then the Chrome folder.",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 272
+        }
+      },
+      {
+        "comment": "",
+        "key": "Download sample PDF",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 240
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save downloaded PDF to Files app",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 251
+        }
+      },
+      {
+        "comment": "",
+        "key": "Downloading…",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 232
+        }
+      },
+      {
+        "comment": "",
+        "key": "Download PDF",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 232
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save to Files",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 246
+        }
+      },
+      {
+        "comment": "",
+        "key": "How to save the file",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 262
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tap \"Save to Files\" → in the share sheet tap \"Save to Files\" → choose On My iPhone → Chrome folder.",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 264
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save to Files",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 293
+        }
+      },
+      {
+        "comment": "",
+        "key": "Later",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 294
+        }
+      },
+      {
+        "comment": "",
+        "key": "To save the file:\n1. Tap \"Save to Files\"\n2. In the share sheet, tap \"Save to Files\"\n3. Choose: On My iPhone → Chrome\n\nThis makes the file accessible in the iOS Files app and Chrome.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 296
+        }
+      }
+    ]
+  },
+  "version": 1
+}

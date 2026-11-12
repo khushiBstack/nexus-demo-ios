@@ -1,0 +1,16 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/DemoBankApp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "IP location: %@",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 173
+        }
+      }
+    ]
+  },
+  "version": 1
+}

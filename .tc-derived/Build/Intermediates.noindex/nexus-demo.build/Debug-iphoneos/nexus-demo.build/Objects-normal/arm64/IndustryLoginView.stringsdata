@@ -1,0 +1,96 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/IndustryLoginView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Sign in to continue",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign In",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 114
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign in with Face ID",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 137
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email address",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Password",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 67
+        }
+      },
+      {
+        "comment": "",
+        "key": "Password",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter a valid email address",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 93
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign In",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "or",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 118
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign in with Face ID",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 128
+        }
+      }
+    ]
+  },
+  "version": 1
+}

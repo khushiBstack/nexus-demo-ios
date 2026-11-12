@@ -1,0 +1,168 @@
+{
+  "source": "/Users/khushibhatia/Desktop/nexus-demo/nexus-demo/BFSIKYCView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Identity Verification",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verify Your Identity",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "We need to verify your identity to comply with KYC regulations.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start Verification",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 67
+        }
+      },
+      {
+        "comment": "",
+        "key": "Position your face in the circle",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "Liveness check passed!",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 106
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open Front Camera",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "Continue",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 120
+        }
+      },
+      {
+        "comment": "",
+        "key": "Document uploaded!",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 156
+        }
+      },
+      {
+        "comment": "",
+        "key": "Upload your ID",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 156
+        }
+      },
+      {
+        "comment": "",
+        "key": "Document type",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 158
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scan with Camera",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 162
+        }
+      },
+      {
+        "comment": "",
+        "key": "Upload from Photos",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 168
+        }
+      },
+      {
+        "comment": "",
+        "key": "Continue",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 175
+        }
+      },
+      {
+        "comment": "",
+        "key": "Review and Submit",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 197
+        }
+      },
+      {
+        "comment": "",
+        "key": "Submit for Verification",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 203
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verification Submitted!",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 232
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your KYC documents have been submitted. Verification typically takes 1-2 business days.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 233
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 236
+        }
+      }
+    ]
+  },
+  "version": 1
+}
